@@ -1,4 +1,4 @@
-# video-hub #main --> code in master branch
+# video-hub `#main --> code in master branch>>>`
 A complete video hub application following a close youtube channel. And this project making by React js 18, @chakraUi, React-router-dom, react-icons, etc. 
  
 
